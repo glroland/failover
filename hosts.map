@@ -1,0 +1,3 @@
+#domainname             backendname
+one.svc.my.edge.test    be_svcone
+two.svc.my.edge.test    be_svctwo
